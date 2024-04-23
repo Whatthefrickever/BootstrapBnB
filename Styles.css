@@ -1,0 +1,29 @@
+﻿h1{
+    text-align: center;
+}
+
+image
+{
+    margin: auto;
+}
+
+h2 {
+    text-align: center;
+    border-bottom: solid;
+    border-top: solid;
+}
+
+form{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.center{
+    text-align: center;
+}
+
+.copyRight {
+    text-align: center;
+    border-top: solid;
+    padding-bottom: 5px;
+}
